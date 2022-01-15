@@ -929,44 +929,135 @@ public class DataProviderSql implements IDataProvider{
         }
     }
 
+//    @Override
+//    public Status editCart(long userId, long itemId, long amount) {
+//        Optional<Cart> cart = getCartByUserIdAndItemId(userId, itemId);
+//        final String methodName = new Object() {}.getClass().getEnclosingMethod().getName();
+//        final String className = cart.getClass().getSimpleName();
+//        Status status;
+//
+//        if (cart.isPresent()){
+//            System.out.println("cart is present");
+//            if(amount > 0){
+//                cart.get().setItemAmount(amount);
+//                status = updateCart(cart.get());
+//            }
+//            else if(amount == 0){
+//                status = deleteCart(cart.get());
+//            }
+//            else {
+//                status = Status.FAULT;
+//            }
+//            HistoryContent historyContent = createHistoryContent(className, methodName, null, Status.FAULT);
+//            saveHistory(historyContent);
+//        }else{
+//            final UUID uid = UUID.randomUUID();
+//            long id = uid.getMostSignificantBits() % 1000000000;
+//            Cart newCart = new Cart(id, userId, itemId, amount);
+//            status = saveCart(newCart);
+//            System.out.println(newCart);
+//            HistoryContent historyContent = createHistoryContent(className, methodName, null, Status.FAULT);
+//            saveHistory(historyContent);
+//        }
+//        return status;
+//    }
+
+
     @Override
     public Status editCart(long userId, long itemId, long amount) {
+        if (amount == 0){
+            return deleteRecord(userId, itemId);
+        }else{
+            Optional<Cart> cart = getCartByUserIdAndItemId(userId, itemId);
+            if (cart.isEmpty()){
+                return createRecord(userId, itemId, amount);
+            } else {
+                return editRecord(cart.get().getId(), userId, itemId, amount);
+            }
+        }
+
+
+//
+//
+//        Optional<Cart> cart = getCartByUserIdAndItemId(userId, itemId);
+//        final String methodName = new Object() {}.getClass().getEnclosingMethod().getName();
+//        final String className = cart.getClass().getSimpleName();
+//        Status status;
+//        if (cart.isPresent()){
+//            if(amount > 0){
+//                cart.get().setItemAmount(amount);
+//                updateCart(cart.get());
+//                status = Status.SUCCESS;
+//            }
+//            else if(amount == 0){
+//                status = deleteCart(cart.get());
+//            }
+//            else {
+//                status = Status.FAULT;
+//            }
+//            HistoryContent historyContent = createHistoryContent(className, methodName, null, Status.FAULT);
+//            saveHistory(historyContent);
+//        }else{
+//            final UUID uid = UUID.randomUUID();
+//            long id = uid.getMostSignificantBits() % 1000000000;
+//            Cart newCart = new Cart(id, userId, itemId, amount);
+//            status = saveCart(newCart);
+//            HistoryContent historyContent = createHistoryContent(className, methodName, null, Status.FAULT);
+//            saveHistory(historyContent);
+//        }
+//        return status;
+    }
+
+    @Override
+    public Status deleteRecord(long userId, long itemId){
         Optional<Cart> cart = getCartByUserIdAndItemId(userId, itemId);
         final String methodName = new Object() {}.getClass().getEnclosingMethod().getName();
         final String className = cart.getClass().getSimpleName();
-        Status status;
-
         if (cart.isPresent()){
-            System.out.println("cart is present");
-            if(amount > 0){
-                System.out.println("amount is positive");
-                System.out.println(cart);
-                cart.get().setItemAmount(amount);
-                System.out.println(cart);
-                System.out.println(selectCart());
-                status = updateCart(cart.get());
-                System.out.println(selectCart());
-                //status = Status.SUCCESS;
-            }
-            else if(amount == 0){
-                status = deleteCart(cart.get());
-            }
-            else {
-                status = Status.FAULT;
-            }
+            Status status = deleteCart(cart.get());
+            HistoryContent historyContent = createHistoryContent(className, methodName, cart.get(), status);
+            saveHistory(historyContent);
+            return status;
+        } else {
             HistoryContent historyContent = createHistoryContent(className, methodName, null, Status.FAULT);
             saveHistory(historyContent);
-        }else{
-            final UUID uid = UUID.randomUUID();
-            long id = uid.getMostSignificantBits() % 1000000000;
-            Cart newCart = new Cart(id, userId, itemId, amount);
-            status = saveCart(newCart);
-            System.out.println(newCart);
-            HistoryContent historyContent = createHistoryContent(className, methodName, null, Status.FAULT);
-            saveHistory(historyContent);
+            return Status.FAULT;
         }
+    }
+
+    @Override
+    public Status createRecord(long userId, long itemId, long amount){
+        final String methodName = new Object() {}.getClass().getEnclosingMethod().getName();
+        final UUID uid = UUID.randomUUID();
+        long id = uid.getMostSignificantBits() % 1000000000;
+        Cart cart = new Cart(id, userId, itemId, amount);
+        Status status = saveCart(cart);
+        final String className = cart.getClass().getSimpleName();
+        HistoryContent historyContent = createHistoryContent(className, methodName, cart, status);
+        saveHistory(historyContent);
         return status;
     }
+
+    @Override
+    public Status editRecord(long cartId, long userId, long itemId, long amount){
+        final String methodName = new Object() {}.getClass().getEnclosingMethod().getName();
+        Cart cart = new Cart(cartId, userId, itemId, amount);
+        Status status = updateCart(cart);
+        final String className = cart.getClass().getSimpleName();
+        HistoryContent historyContent = createHistoryContent(className, methodName, cart, status);
+        saveHistory(historyContent);
+        return status;
+    }
+
+
+
+
+
+
+
+
+
+
 
     @Override
     public Status emptyCart(long userId) {

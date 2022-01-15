@@ -3027,3 +3027,309 @@ Message: Premature end of file.
 14 Jan 2022 17:16:14,820 [main] INFO  ru.sfedu.comicsShop.Main - JSON
 14 Jan 2022 17:16:14,827 [main] INFO  ru.sfedu.comicsShop.Main - JSON
 14 Jan 2022 17:16:14,827 [main] ERROR ru.sfedu.comicsShop.Main - Wrong data provider.
+15 Jan 2022 19:20:01,374 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:01,400 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:01,573 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:01,574 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:01,624 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:01,647 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:01,929 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:01,930 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:01,944 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:01,945 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:01,958 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:01,967 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,012 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,027 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,028 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,031 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,034 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,046 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,060 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,070 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,082 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,112 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,114 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,143 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,144 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,145 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,146 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,154 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,176 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,178 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,196 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,200 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,217 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,221 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,221 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,396 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,398 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,410 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,412 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,413 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,414 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,420 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,429 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,433 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,448 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,452 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,481 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,483 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,490 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,493 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,514 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,515 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,516 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,517 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,529 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,542 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,545 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,546 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,572 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,577 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,581 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,584 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,605 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,610 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,621 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,658 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,673 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,690 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,879 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,880 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,884 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,885 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,888 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,906 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,908 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,913 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,916 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,949 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,950 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,951 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,952 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,991 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:02,992 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,000 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,001 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,002 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,003 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,004 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,042 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,043 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,045 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,050 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,051 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,059 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,060 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,067 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,073 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,118 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,119 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,119 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,120 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,121 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,121 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,122 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,123 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,124 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,125 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,125 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,126 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,126 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,127 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,128 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,128 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,129 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,129 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,130 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,130 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,131 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,140 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,142 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,143 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,179 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,189 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,190 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,194 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,196 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,196 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,197 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,201 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,202 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,203 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,203 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,206 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,207 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,208 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,209 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,210 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,211 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,212 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,213 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,216 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,227 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,229 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,252 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,259 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,259 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,266 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,267 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,280 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,290 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,310 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:20:03,313 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderCsv - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+15 Jan 2022 19:21:18,663 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderSql - java.sql.SQLException: Illegal operation on empty result set.
+15 Jan 2022 19:21:18,700 [main] ERROR ru.sfedu.comicsShop.provider.DataProviderSql - java.sql.SQLException: Illegal operation on empty result set.

@@ -40,6 +40,9 @@ public interface IDataProvider {
 
     Status editCart(long userId, long itemId, long amount);
     Status emptyCart(long userId);
+    Status deleteRecord(long userId, long itemId);
+    Status createRecord(long userId, long itemId, long amount);
+    Status editRecord(long cartId, long userId, long itemId, long amount);
 
     ReturnOrder makeOrder(long userId, String address, String discountCode);
     ReturnOrder makeOrder(long userId, String address); //discountCode = null или мб ""
